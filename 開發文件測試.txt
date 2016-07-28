@@ -1,2 +1,4 @@
-Micheal survey ES and WebAPI.
-Michael modify MACF702,MABuild741.
+Micheal - 20160728
+- survey ES and WebAPI.
+- modify MACF702,MABuild741.
+
